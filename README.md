@@ -5,7 +5,10 @@ This repository contains amazon clone that were developed to help developers lea
 
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
-<p>git clone https://github.com/khushdiyora/amazon-clone-website.git</p>
+
+```bash
+git clone https://github.com/khushdiyora/Image-Hover-Animation.git
+```
   
 # Usage
 Each project is contained within its own folder. To view the project, simply open the index.html file in your web browser. The CSS and JavaScript files are also included within the project folder.
